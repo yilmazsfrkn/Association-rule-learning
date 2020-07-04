@@ -1,5 +1,7 @@
 # Association-rule-learning
-															 # Birliktelik Kuralları Nedir?
+
+# Birliktelik Kuralları Nedir?
+
 
 Veri içerisindeki pattern'leri (ilişkileri, yapıları) bulmak için kullanılan kural tabanlı bir makine öğrenmesi tekniğidir.
 
